@@ -58,7 +58,7 @@ A decentralized platform that enables tokenization of real estate properties, fa
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Daksh-14/RealEstateTokenization.git
+git clone https://github.com/bhavik0B/Real-Estate-Tokenization-Platform.git
 
 cd RealEstateTokenization
 ```
